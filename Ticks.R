@@ -1,4 +1,4 @@
-#Author: Mauricio Moreno
+#Author: Mauricio Moreno, Middlebury 2023
 #Using Tick data from summer research 2022
 
 library(stringr)
